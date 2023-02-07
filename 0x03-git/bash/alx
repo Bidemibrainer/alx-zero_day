@@ -1,6 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAiD
-echo "ALX Scihool"
+echo "ALX School"
 =======
 echo "ALX School"
 >>>>>>> update_script
